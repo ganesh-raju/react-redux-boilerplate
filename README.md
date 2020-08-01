@@ -1,14 +1,13 @@
-This project can be found on github [react-redux-boilerplate-code](https://github.com/NikilMunireddy/react-redux-boilerplate-code).
+This project can be found on github [react-redux-boilerplate-code](https://github.com/ganesh-raju/react-redux-boilerplate/tree/master/src).
 
-## Install using 
+### `Features`
 
-`npm i react-redux-boilerplate-code`  
-
-You can also find on NPM repository  [https://www.npmjs.com/package/react-redux-boilerplate-code](https://www.npmjs.com/package/react-redux-boilerplate-code)
-
-## Available Scripts
-
-In the project directory, you can run:
+1. React
+2. Redux
+3. React router
+4. Thunk
+5. Bootstrap
+6. Axios
 
 ### `npm start`
 
